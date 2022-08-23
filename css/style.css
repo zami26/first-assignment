@@ -13,6 +13,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 100px;
 }
 
 .heading-first {
@@ -28,8 +29,41 @@ body {
 
 .button {
     border-radius: 5px;
-    background-color: salmon;
+    background-color: #FF5959;
     padding: 10px 15px;
     color: white;
     font-weight: bold;
+    text-decoration: none;
+}
+
+#donate-today {
+    text-align: center;
+}
+
+#ammount-div {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.ammount {
+    background-color: whitesmoke;
+    padding: 30px 20px;
+    border-radius: 5px;
+}
+
+#special-ammount {
+    border: 2px #FF5959 solid;
+    color: #FF5959;
+    background-color: #FFEEEE;
+}
+
+#input-div {
+    text-align: center;
+    margin: 0 100px;
+}
+
+#input-btn {
+    border-color: transparent;
 }
