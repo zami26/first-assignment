@@ -68,8 +68,8 @@ body {
     border-color: transparent;
 }
 
-#donate-plan-text {
-    margin: 100px 0;
+.donate-plan-text {
+    margin: 100px 80px 0;
     text-align: center;
 }
 
@@ -94,4 +94,62 @@ body {
 
 #education {
     background-color: #FFF4D6;
+}
+
+#email-box {
+    background-color: #FFF4D6;
+    height: 200px;
+    width: 809px;
+    border-radius: 10px;
+    margin-left: 20%;
+    text-align: center;
+
+}
+
+#email {
+    margin-top: 100px;
+    padding: 10px 30px;
+    background-color: #D9D9D9;
+    border: none;
+    color: black;
+}
+
+#Subscribe {
+    margin-top: 100px;
+    padding: 10px 30px;
+    background-color: #FF5959;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
+
+#footer-sec {
+    margin: 100px 0 0 0;
+    height: 177px;
+    background-color: black;
+}
+
+#footer-div {
+    text-align: center;
+    padding: 50px;
+}
+
+
+#footer-heading {
+    color: #FF5959;
+
+}
+
+#footer-text {
+    color: whitesmoke;
+
+}
+
+#creative-sec {
+    text-align: center;
+    margin: 100px;
+}
+
+#creative-img {
+    height: 300px;
 }
