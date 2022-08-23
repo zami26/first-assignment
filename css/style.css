@@ -67,3 +67,31 @@ body {
 #input-btn {
     border-color: transparent;
 }
+
+#donate-plan-text {
+    margin: 100px 0;
+    text-align: center;
+}
+
+#donate-plan {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.donate-plan-div {
+    margin: 0 40px;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+#food {
+    background-color: #EDF5F6;
+}
+
+#shelter {
+    background-color: #FFEEEE;
+}
+
+#education {
+    background-color: #FFF4D6;
+}
